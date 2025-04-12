@@ -21,3 +21,4 @@ AssetSeekAPIServer/.vs/
 AssetSeekGUI/obj/
 AssetSeekGUI/bin/
 AssetSeekGUI/.vs/
+/AssetSeekAPIServer/appsettings.json
