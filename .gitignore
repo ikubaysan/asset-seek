@@ -18,6 +18,10 @@ AssetSeekAPIServer/obj/
 AssetSeekAPIServer/bin/
 AssetSeekAPIServer/.vs/
 
+AssetSeekAPIServer.Test/obj/
+AssetSeekAPIServer.Test/bin/
+AssetSeekAPIServer.Test/.vs/
+
 AssetSeekGUI/obj/
 AssetSeekGUI/bin/
 AssetSeekGUI/.vs/

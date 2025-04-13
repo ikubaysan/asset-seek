@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <TextBox HorizontalAlignment="Left" Margin="260,249,0,0" TextWrapping="Wrap" Text="Sample Text" VerticalAlignment="Top" Width="260" Height="94"/>
-        <Button Content="Button" Margin="142,116,474,237" Click="Button_Click"/>
+        <Button Content="Button" Margin="142,116,503,258" Click="Button_Click"/>
         <Button Content="Button" Margin="454,116,214,258"/>
 
     </Grid>

@@ -22,5 +22,9 @@ Authentication failed against tenant <guid> 'Default Directory': (pii). Status: 
 If you need to access subscriptions in the following tenants, please use `az login --tenant TENANT_ID`.
 ```
 
+Disable WAM and sign in web browser instead
+https://learn.microsoft.com/en-us/cli/azure/authenticate-azure-cli-interactively
+
 `az config set core.enable_broker_on_windows=false`
 `az login`
+
