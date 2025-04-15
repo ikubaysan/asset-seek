@@ -1,4 +1,5 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using AssetSeekAPIServer.Test.Fixtures;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Net.Http.Json;
 
 namespace AssetSeekAPIServer.Test
